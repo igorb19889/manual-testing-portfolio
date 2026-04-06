@@ -13,7 +13,6 @@ Steps:
 
 Expected Result:
       User is successfully logged in and redirected to dashboard
---------------------------------------------------------------------->
 
 TestCase - 02: Login with invalid password
 
@@ -28,7 +27,6 @@ Steps:
 
 Expected Result:
       Error message is displayed: "Invalid credentials"
--------------------------------------------------------------------->
 
 TestCase - 03: Register new user
 
@@ -42,7 +40,6 @@ Steps:
 
 Expected Result:
       Account is created successfully
--------------------------------------------------------------------->
 
 TestCase - 04: Empty fields validation
 
