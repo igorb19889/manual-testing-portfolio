@@ -1,7 +1,6 @@
 # Test Cases
 
-TestCase - 01: Login with valid credentials
-
+TestCase-01_Amazon Registration: Login with valid credentials
 Preconditions:
       User has a valid account
 
@@ -14,8 +13,8 @@ Steps:
 Expected Result:
       User is successfully logged in and redirected to dashboard
 
-TestCase - 02: Login with invalid password
 
+TestCase-02_Amazon Registration: Login with invalid password
 Preconditions:
       User exists
 
@@ -28,7 +27,7 @@ Steps:
 Expected Result:
       Error message is displayed: "Invalid credentials"
 
-TestCase - 03: Register new user
+TestCase-03_999.md: Register new user
 
 Preconditions:
       User is not registered
@@ -41,7 +40,7 @@ Steps:
 Expected Result:
       Account is created successfully
 
-TestCase - 04: Empty fields validation
+TestCase-04_999.md: Empty fields validation
 
 Steps:
       1. Open login page
