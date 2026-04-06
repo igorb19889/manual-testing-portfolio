@@ -34,7 +34,7 @@ Expected Result:
       Error message should appear
 
 
-BugReport - 01: UI broken on mobile
+BugReport - 03: UI broken on mobile
 
 Severity: Low  
 Priority: Low  
